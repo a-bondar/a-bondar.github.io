@@ -1,4 +1,0 @@
-//px2%
-@function calc-percent($target, $container) {
-  @return ($target / $container) * 100%;
-}
